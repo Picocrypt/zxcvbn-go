@@ -3,9 +3,9 @@ package matching
 import (
 	"strings"
 
-	"github.com/nbutton23/zxcvbn-go/adjacency"
-	"github.com/nbutton23/zxcvbn-go/entropy"
-	"github.com/nbutton23/zxcvbn-go/match"
+	"github.com/HACKERALERT/zxcvbn-go/adjacency"
+	"github.com/HACKERALERT/zxcvbn-go/entropy"
+	"github.com/HACKERALERT/zxcvbn-go/match"
 )
 
 const spatialMatcherName = "SPATIAL"

@@ -2,9 +2,9 @@ package scoring
 
 import (
 	"fmt"
-	"github.com/nbutton23/zxcvbn-go/entropy"
-	"github.com/nbutton23/zxcvbn-go/match"
-	"github.com/nbutton23/zxcvbn-go/utils/math"
+	"github.com/HACKERALERT/zxcvbn-go/entropy"
+	"github.com/HACKERALERT/zxcvbn-go/match"
+	"github.com/HACKERALERT/zxcvbn-go/utils/math"
 	"math"
 	"sort"
 )

@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"log"
 
-	"github.com/nbutton23/zxcvbn-go/data"
+	"github.com/HACKERALERT/zxcvbn-go/data"
 )
 
 // Graph holds information about different graphs
