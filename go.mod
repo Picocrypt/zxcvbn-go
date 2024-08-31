@@ -1,3 +1,3 @@
-module github.com/HACKERALERT/zxcvbn-go
+module github.com/Picocrypt/zxcvbn-go
 
-go 1.14
+go 1.18
