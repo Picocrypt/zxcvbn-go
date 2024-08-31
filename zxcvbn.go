@@ -3,10 +3,10 @@ package zxcvbn
 import (
 	"time"
 
-	"github.com/HACKERALERT/zxcvbn-go/match"
-	"github.com/HACKERALERT/zxcvbn-go/matching"
-	"github.com/HACKERALERT/zxcvbn-go/scoring"
-	"github.com/HACKERALERT/zxcvbn-go/utils/math"
+	"github.com/Picocrypt/zxcvbn-go/match"
+	"github.com/Picocrypt/zxcvbn-go/matching"
+	"github.com/Picocrypt/zxcvbn-go/scoring"
+	"github.com/Picocrypt/zxcvbn-go/utils/math"
 )
 
 // PasswordStrength takes a password, userInputs and optional filters and returns a MinEntropyMatch
