@@ -1,7 +1,7 @@
 package fuzz
 
 import (
-	"github.com/HACKERALERT/zxcvbn-go"
+	"github.com/Picocrypt/zxcvbn-go"
 )
 
 // Fuzz is used to run https://github.com/dvyukov/go-fuzz
