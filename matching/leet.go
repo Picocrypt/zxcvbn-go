@@ -3,8 +3,8 @@ package matching
 import (
 	"strings"
 
-	"github.com/HACKERALERT/zxcvbn-go/entropy"
-	"github.com/HACKERALERT/zxcvbn-go/match"
+	"github.com/Picocrypt/zxcvbn-go/entropy"
+	"github.com/Picocrypt/zxcvbn-go/match"
 )
 
 // L33TMatcherName id
