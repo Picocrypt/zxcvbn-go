@@ -3,9 +3,9 @@ package matching
 import (
 	"sort"
 
-	"github.com/HACKERALERT/zxcvbn-go/adjacency"
-	"github.com/HACKERALERT/zxcvbn-go/frequency"
-	"github.com/HACKERALERT/zxcvbn-go/match"
+	"github.com/Picocrypt/zxcvbn-go/adjacency"
+	"github.com/Picocrypt/zxcvbn-go/frequency"
+	"github.com/Picocrypt/zxcvbn-go/match"
 )
 
 var (
