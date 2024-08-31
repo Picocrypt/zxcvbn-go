@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"log"
 
-	"github.com/HACKERALERT/zxcvbn-go/data"
+	"github.com/Picocrypt/zxcvbn-go/data"
 )
 
 // List holds a frequency list
