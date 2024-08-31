@@ -2,9 +2,9 @@ package scoring
 
 import (
 	"fmt"
-	"github.com/HACKERALERT/zxcvbn-go/entropy"
-	"github.com/HACKERALERT/zxcvbn-go/match"
-	"github.com/HACKERALERT/zxcvbn-go/utils/math"
+	"github.com/Picocrypt/zxcvbn-go/entropy"
+	"github.com/Picocrypt/zxcvbn-go/match"
+	"github.com/Picocrypt/zxcvbn-go/utils/math"
 	"math"
 	"sort"
 )
