@@ -1,9 +1,9 @@
 package entropy
 
 import (
-	"github.com/HACKERALERT/zxcvbn-go/adjacency"
-	"github.com/HACKERALERT/zxcvbn-go/match"
-	"github.com/HACKERALERT/zxcvbn-go/utils/math"
+	"github.com/Picocrypt/zxcvbn-go/adjacency"
+	"github.com/Picocrypt/zxcvbn-go/match"
+	"github.com/Picocrypt/zxcvbn-go/utils/math"
 	"math"
 	"regexp"
 	"unicode"
