@@ -1,3 +1,3 @@
 module github.com/Picocrypt/zxcvbn-go
 
-go 1.18
+go 1.24
